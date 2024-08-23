@@ -1,0 +1,13 @@
+.thiago {
+  display: flex;
+  justify-content: space-between;
+}
+
+.oi {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
